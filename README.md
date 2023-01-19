@@ -4,6 +4,8 @@ I'm an embedded systems firmware guru specializing in using **STM32** to sense, 
 
 I've done a lot of things in my career so far and I'm just getting started.  One highlight includes an end-to-end **sensor-to-blockchain** platform called [Measurement{Earth}](https://www.measurement.earth/).
 
+I'm building a firmware foundation upon which every single IoT device on the planet can operate on, starting with the firmware management system (bootloader and firmware  update system) I call the [stm32-secure-patching-bootloader](https://github.com/firmwaremodules/stm32-secure-patching-bootloader). Upon this foundation I'm working to enable the Measurement{Earth} IoT Operating System for general release. 
+
 
 ![MeasurementEarthPlatform-r1](https://user-images.githubusercontent.com/22859127/213576712-93dea751-db6f-40a2-8e27-f38455ebe506.jpg)
 
