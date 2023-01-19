@@ -7,6 +7,7 @@ I've done a lot of things in my career so far and I'm just getting started.  One
 
 ![MeasurementEarthPlatform-r1](https://user-images.githubusercontent.com/22859127/213576712-93dea751-db6f-40a2-8e27-f38455ebe506.jpg)
 
+![ME-TSP-AIR-assembled-top-off-a11111d-hackster-cropped](https://user-images.githubusercontent.com/22859127/213577787-17dac4e0-40ef-4671-8eaf-ee64a5f2e69e.jpg)
 
 <!--
 **firmwareguru/firmwareguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
